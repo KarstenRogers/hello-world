@@ -1,9 +1,46 @@
 html {
   height: 100%;
 }
-
 body {
   margin: 0;
   min-height: 100%;
-  font: 16px / 1 sans-serif;
+  font: 18px / 2 sans-serif;
+  background-image: url(/pictures/video_games.jpg);
+  color: white;
+}
+h1{
+  color:white;
+}
+h1.page2{
+  color:green;
+  text-align: center;
+  font-size:1.5em;
+  font-family:arial
+}
+img{
+  width: 300px;
+  display: block;
+  margin: 0 auto;
+}
+h1.sports{
+  color:green;
+  text-align: center;
+  font-size:1.5em;
+}
+header{
+  color:teal;
+}
+p {
+  color:red;
+  font-size:1.5em;
+}
+.pro{
+  color:blue;
+  text-align:center;
+  font-size:1.5em;
+}
+.games{
+  color:blue;
+  font-size:1.5em;
+  text-align:center;
 }
